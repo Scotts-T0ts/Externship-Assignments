@@ -5,6 +5,16 @@ Task - 3 Find the descriptive statistics of the 'df' dataframe.
 Task - 4 Check for the null values in 'df' and find the data type of the columns.
 Task - 5 Display the 'Random value 2' & 'Random value 3' columns with location method and index location method.
 # Externship-Assignment-2
+Perform the Below Tasks to complete the assignment:-
+Tasks:-
+1. Download the dataset: Dataset
+2. Load the dataset.
+3. Perform the Below Visualizations.
+● Univariate Analysis
+● Bi - Variate Analysis
+● Multivariate Analysis
+4. Perform descriptive statistics on the dataset.
+5. Handle the Missing values
 # Externship-Assignment-3
 Penguin Classification Analysis
 Problem Statement:
