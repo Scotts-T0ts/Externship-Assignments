@@ -58,6 +58,7 @@ Clustering the data and performing classification algorithms
 12.check the training and testing data shape
 # PROJECT-4
 Grapes to Greatness: Machine Learning in Wine Quality Prediction
+
 Description:
 Predicting wine quality using machine learning is a common and valuable application in the 
 field of data science and analytics. Wine quality prediction involves building a model that can 
@@ -70,6 +71,7 @@ there is no data about grape types, wine brand, wine selling price, etc.).
 These datasets can be viewed as classification or regression tasks. The classes are ordered 
 and not balanced (e.g. there are much more normal wines than excellent or poor ones).
 Dataset: link
+
 Task:
 • Load the Dataset
 • Data preprocessing including visualization
