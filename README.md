@@ -1,10 +1,10 @@
-# Externship-Assignment-1
+# PROJECT-1
 Task - 1 Create a pandas dataframe (DataFrame name as 'df') with numpy random values (4 features and 4 observation)
 Task - 2 Rename the task - 1 'df' dataframe column names to 'Random value 1', 'Random value 2', 'Random value 3' & 'Random value 4'
 Task - 3 Find the descriptive statistics of the 'df' dataframe.
 Task - 4 Check for the null values in 'df' and find the data type of the columns.
 Task - 5 Display the 'Random value 2' & 'Random value 3' columns with location method and index location method.
-# Externship-Assignment-2
+# PROJECT-2
 Perform the Below Tasks to complete the assignment:-
 Tasks:-
 1. Download the dataset: Dataset
@@ -15,7 +15,7 @@ Tasks:-
 ● Multivariate Analysis
 4. Perform descriptive statistics on the dataset.
 5. Handle the Missing values
-# Externship-Assignment-3
+# PROJECT-3
 Penguin Classification Analysis
 Problem Statement:
 The Penguin Classification Analysis problem involves predicting the species of a penguin 
@@ -56,3 +56,23 @@ Clustering the data and performing classification algorithms
 10. Scaling the data
 11. Split the data into training and testing
 12.check the training and testing data shape
+# PROJECT-4
+Grapes to Greatness: Machine Learning in Wine Quality Prediction
+Description:
+Predicting wine quality using machine learning is a common and valuable application in the 
+field of data science and analytics. Wine quality prediction involves building a model that can 
+assess and predict the quality of a wine based on various input features, such as chemical 
+composition, sensory characteristics, and environmental factors. 
+The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. 
+For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic 
+issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. 
+there is no data about grape types, wine brand, wine selling price, etc.).
+These datasets can be viewed as classification or regression tasks. The classes are ordered 
+and not balanced (e.g. there are much more normal wines than excellent or poor ones).
+Dataset: link
+Task:
+• Load the Dataset
+• Data preprocessing including visualization
+• Machine Learning Model building 
+• Evaluate the model
+• Test with random observatioN
