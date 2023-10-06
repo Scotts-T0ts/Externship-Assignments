@@ -78,3 +78,14 @@ Task:
 • Machine Learning Model building 
 • Evaluate the model
 • Test with random observatioN
+# PROJECT-5
+Customer segmentation is a crucial aspect of retail and marketing strategy. Mall 
+Customer Segmentation is a common data analysis project that involves categorizing 
+mall customers into distinct groups or segments based on various characteristics and 
+behaviors. This segmentation is valuable for tailoring marketing efforts, optimizing 
+store layouts, and enhancing customer experiences.
+Dataset link: Here
+Task:
+Understand the data
+Data Preprocessing
+Machine Learning approach with clustering algorithM
